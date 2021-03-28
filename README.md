@@ -16,7 +16,6 @@ P1, P2, . . . , Pk. For each EV the following information is provided -
 
 # Implementation Details
 Our E-VRPTW Solver consists of two parts:
-Construction heuristic
-Metaheuristic
+Construction heuristic and Metaheuristic
 
 
